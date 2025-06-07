@@ -8,7 +8,7 @@
   ---
 
   ## 🛠️ 技术栈
-  <img src="https://skillicons.dev/icons?i=py,django,aws,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,postgres" />
 
   ## 📈 数据统计
  
