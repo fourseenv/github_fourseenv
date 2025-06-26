@@ -3,12 +3,12 @@
   <img src="https://avatars.githubusercontent.com/u/fourseenv" width="100"/>
   
   # Hello World! 👋
-  **Python | Web开发 | 开源爱好者**
+  **希望成为一个数据科学家**
 
   ---
 
   ## 🛠️ 技术栈
-  <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=py,mysql" />
 
   ## 📈 数据统计
  
